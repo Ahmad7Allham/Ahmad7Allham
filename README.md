@@ -22,10 +22,11 @@
 
 class About extends Me {
   const myTools = {
+
     "ProgramingLanguages" : { "C++", "JavaScript" },
+
     "Frontend" : { "HTML", "CSS", "React.js", "Tailwind CSS", "Bootstrap" },
+
     "VersionControl" : { "Git", "GitHub" },
-    "Editors" : { "Vscode" },
-    "Platforms" : { "Windows", "Linux" }
-  };
-}
+
+  };}
