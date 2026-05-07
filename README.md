@@ -1,47 +1,44 @@
-# Hi there! I'm Ahmad Allham 👋
-### A Passionate React Developer
+<div align="center" width="50">
 
-<p align="left">
- <img src="https://komarev.com" alt="Profile Views" />
-</p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="#" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="#" alt="Workspace"  width="40%"/><br> 
 
----
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-## 🚀 About Me
-- 💻 I’m currently focused on building interactive and responsive web applications using **React**.
-- 🛠️ I have a solid foundation in **C++** and Problem Solving.
-- 🎨 I love turning complex designs into clean, functional code with **Tailwind CSS** and **Bootstrap**.
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
----
+</details>
 
-## 🛠️ My Tech Stack
+![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Telegram-@YOUR_HANDLE-grey?style=flat&logo=telegram)](https://t.me/YOUR_HANDLE) <br>
+</div>
 
-### 🌐 Frontend Development
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
+<hr></hr>
 
-### 🎨 Styling & Frameworks
-![Bootstrap](https://shields.io)
-![TailwindCSS](https://shields.io)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-### ⚙️ Languages & Tools
-![C++](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+```javascript
+// tools_I_use organized
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
-</p>
-
----
-
-## 📬 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/ahmad-allham" target="blank"><img align="center" src="https://githubusercontent.com" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+class About extends Me {
+  const myTools = {
+    "ProgramingLanguages" : { "C++", "JavaScript" },
+    "Frontend" : { "HTML", "CSS", "React.js", "Tailwind CSS", "Bootstrap" },
+    "VersionControl" : { "Git", "GitHub" },
+    "Editors" : { "Vscode" },
+    "Platforms" : { "Windows", "Linux" }
+  };
+}
